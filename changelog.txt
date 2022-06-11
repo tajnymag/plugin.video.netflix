@@ -1,3 +1,11 @@
+v1.18.7 (2022-05-xx)
+NOTE: Started tv shows are no longer marked as watched by default, this to prevent problems
+with Skin filters, if you prefer it enable "Marks started tv shows as watched" from settings.
+- Fix genres/subgenres menus due to website changes
+- Fix tv shows forced hidden due to skin filters (configurable by settings)
+- Add support to HDR/DolbyVision skin media flags (Kodi 20)
+- Update translations pl, it
+
 v1.18.6 (2022-05-21)
 - Fix regression to allow 1080p on ARM
 
